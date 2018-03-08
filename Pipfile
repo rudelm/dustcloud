@@ -9,7 +9,7 @@ name = "pypi"
 
 requests = "*"
 prompt-toolkit = "*"
-python-miio = ">=0.3.6"
+python-miio = ">=0.3.7"
 gtts = "*"
 bottle = "*"
 
